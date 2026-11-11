@@ -5,8 +5,8 @@ I'm Co-Founder, CEO & Chief Scientist of [MaxGood.work](https://maxgood.work), a
 #### Hooked on AI since grade 9
 
 - **Grade 9:** a friend and I typed ELIZA into his Commodore VIC-20, and I was hooked.
-- **Grade 11:** with another friend, I implemented back-propagation on his Mac Plus, a letter-recognition network built from an article in *Scientific American*. I added a variant of my own that learned from just a "yes" or "no". It won an award at the regional science fair.
-- **Early 1990s:** evolving artificial life on NeXT hardware: "turmites", cellular-automaton creatures that ate, moved, bred and mutated on a two-dimensional toroidal world, where survival was the only fitness test. The real challenge was making it run fast.
+- **Grade 11:** with another friend, I implemented back-propagation on his Mac Plus, a letter-recognition network built from an article in *Scientific American*. I added a variant of my own that learned from just a "yes" or "no". It won two awards at the regional science fair.
+- **1991–93:** evolving artificial life: "turmites", cellular-automaton creatures that ate, moved, bred and mutated on a two-dimensional toroidal world, where survival was the only fitness test. I wrote the first version in Turbo Pascal on MS-DOS in 1991, then rewrote it for NeXTSTEP as HiddenWords, which I released as shareware. The real challenge was making it run fast.
 - **Late 1990s:** natural-language processing at Troba, a startup. Our system found the key text on e-commerce web sites, analyzed its grammar, sentence structure and vocabulary, scored how well it would sell, and recommended improvements.
 - **Today:** AI agents, evals and cognitive architectures, at MaxGood.work and in the open-source projects below.
 
