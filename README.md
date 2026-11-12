@@ -13,7 +13,7 @@ I'm Co-Founder, CEO & Chief Scientist of [MaxGood.work](https://maxgood.work), a
 #### Open source (this account)
 
 - **[DAASH](https://github.com/MishkinBerteig/Distributed-Agile-Agentic-Swarm-Harness)**: the Distributed Agile Agentic Swarm Harness. It turns a vision into teams of AI agents, each with a Mission Judge, a Quality Judge, a Definition of Ready and a Definition of Done. Runs entirely on local open-weight models.
-- **[Petacat](https://github.com/MishkinBerteig/Petacat)**: a port and re-architecture of Metacat (James Marshall), which built on Copycat (Melanie Mitchell), from Douglas Hofstadter's research on analogy-making. A lockstep replay harness proves the port faithful: 1,314 recorded runs, 8.87 million decisions, 100% match.
+- **[Petacat](https://github.com/MishkinBerteig/Petacat)**: a port and re-architecture of Metacat (James Marshall), which built on Copycat (Melanie Mitchell), from Douglas Hofstadter's research on analogy-making. A lockstep replay harness proves the port faithful: 1,319 recorded runs, 50.6 million random decisions, 100% match.
 - **[llm-router](https://github.com/MishkinBerteig/llm-router)**: one OpenAI-compatible endpoint that routes agents to local models by capability tier (amazing, great, fast, instant). A single Go file, standard library only.
 - **[agent-critic](https://github.com/MishkinBerteig/agent-critic)**: grades an AI response on two separate axes, severity and quality, and never lets a model grade its own output.
 
